@@ -64,7 +64,7 @@ int main()
     //process id's
     int processes[n],burst_time[n];
     for(int i=0;i<n;i++){
-        cout<<"\nEnter Process "<<i+1<<": ";
+        cout<<"\nEnter Process ID:"<<i+1<<": ";
         cin>>processes[i];
         cout<<"\nEnter Burst Time for Process "<<i+1<<": ";
         cin>>burst_time[i];
