@@ -6,3 +6,4 @@ Operating Systems - Lab 4
 - [Shortest Job First (without Arrival Time)](https://github.com/anika-kamath/scheduling-algorithms/blob/branch1/sjf.cpp)
 - [Shortest Job First (with Arrival Time)](https://github.com/anika-kamath/scheduling-algorithms/blob/branch1/sjf_at1.cpp)
 - [Round Robin Scheduling](https://github.com/anika-kamath/scheduling-algorithms/blob/branch1/roundrobin.c)
+- [Priority Scheduling](https://github.com/anika-kamath/scheduling-algorithms/blob/branch1/priority_preemptive.cpp)
